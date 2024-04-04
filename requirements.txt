@@ -1,0 +1,5 @@
+Flask
+indic-nlp-library
+PyMuPDF
+PyPDF2
+spacy
